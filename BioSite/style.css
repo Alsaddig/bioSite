@@ -1,0 +1,32 @@
+body {
+ /* font-size: 16px;*/
+  font-family: 'Oswald(300, 500, 700)','Quattrocento(400, 700)';
+  font-size: 16px;
+}
+#container{
+    width: 960px;
+     margin: 0 auto;
+}
+
+h1 {
+    font-weight: 700;
+   /* text-transform: uppercase;*/
+    font-style: bold;
+    color:green;
+}
+h2 {
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+p {
+    font-family:'Quattrocento', Georgia, "Times New Roman", serif;
+    font-weight: 400;
+    line-height: 1.6em;
+    letter-spacing: 3px;
+    color: black;
+}
+
+.sentence:visited{color: white;}
+.sentence:hover{background:gold;}
+
