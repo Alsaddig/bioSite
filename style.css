@@ -29,6 +29,19 @@ nav ul a {
     color:white;
     text-decoration: none;
     }
+    article{
+
+        -webkit-column-width: 200px;
+    -moz-column-width: 200px;
+         column-width: 200px;
+         -webkit-column-count: 2;
+     -moz-column-count: 2;
+          column-count: 2;
+    }
+    #img{
+        border: 1em solid white;
+        
+        }
     footer {
 		  
         padding:15px;
