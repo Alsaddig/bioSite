@@ -42,6 +42,21 @@ nav ul a {
         border: 1em solid white;
         
         }
+    table{
+            margin-bottom: 2em;
+            margin-top: 2em;
+        }
+    tr{
+            margin-bottom: 2em;
+            margin-top: 2em;
+        }
+    td{
+            margin-bottom:.252em;
+            margin-top: .25em;
+            padding-left: .75em;
+            padding-right: 0.75em;
+        }
+        
     footer {
 		  
         padding:15px;
